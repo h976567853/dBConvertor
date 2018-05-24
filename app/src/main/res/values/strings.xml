@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">dB Convertor</string>
+    <string name="error" />
+    <string name="title">dB Convertor by H @ 2018</string>
+    <string name="zero">0.0000</string>
+    <string name="one">1.0000</string>
+    <string name="dB">dB</string>
+    <string name="percent">Percent</string>
+    <string name="output_format_f">%.4f</string>
+    <string name="output_format_e">%.4e</string>
+</resources>
